@@ -30,7 +30,7 @@ cloudpickle==0.2.2
 clyent==1.2.2
 colorama==0.3.7
 contextlib2==0.5.5
-cryptography==1.8.1
+cryptography==3.2
 cvxpy==1.0.3
 cycler==0.10.0
 Cython==0.26.1
