@@ -165,7 +165,7 @@ rake-nltk==1.0.1
 requests==2.18.4
 rope==0.10.7
 rope-py3k==0.9.4.post1
-rsa==3.4.2
+rsa==4.1
 s3fs==0.1.2
 s3transfer==0.1.12
 scikit-image==0.13.0
