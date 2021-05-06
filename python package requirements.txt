@@ -50,7 +50,7 @@ et-xmlfile==1.0.1
 fastcache==1.0.2
 fbprophet==0.1.1
 Flask==0.12.2
-Flask-Cors==3.0.2
+Flask-Cors==3.0.9
 future==0.16.0
 fuzzywuzzy==0.15.1
 gast==0.2.0
