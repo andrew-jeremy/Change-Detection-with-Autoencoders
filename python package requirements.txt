@@ -41,7 +41,7 @@ datashape==0.5.4
 decorator==4.1.2
 dill==0.2.7.1
 distributed==1.16.3
-Django==2.0.3
+Django==2.2.24
 docutils==0.14
 easydict==1.7
 ecos==2.0.5
