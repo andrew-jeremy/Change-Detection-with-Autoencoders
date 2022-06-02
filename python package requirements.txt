@@ -62,7 +62,7 @@ grpcio==1.11.0
 h5py==2.7.0
 haversine==0.4.5
 HeapDict==1.0.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 image==1.5.19
 image-slicer==0.1.1
